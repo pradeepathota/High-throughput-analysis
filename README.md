@@ -4,7 +4,7 @@ This repository contains five Python-based assignments focused on bioinformatics
 
 ## Author
 
-**Pradeep Athota**  
+**Venkata Pradeep Kumar Athota**  
 *Bioinformatics Coursework – High-Throughput Data Analysis*
 
 ## Assignment 1: Correlation Matrix & Heatmap Visualization
